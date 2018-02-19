@@ -4,6 +4,7 @@ Input:
 - Number of Nodes
 - Traffic demand values (b_ij)
 - Unit costs for potential links (a_ij)
+
 Output:
 A network topology with minimum cost between every pair of node based on different K, where K = 3, 4, …, 15.
 
